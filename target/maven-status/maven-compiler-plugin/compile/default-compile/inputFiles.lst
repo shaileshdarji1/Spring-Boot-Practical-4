@@ -1,0 +1,15 @@
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/service/impl/ProductServiceImpl.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/dto/CategoryDto.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/service/CategoryService.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/entity/Product.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/controller/ProductController.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/dto/ProductDto.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/controller/CategoryController.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/service/ProductService.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/repository/CategoryRepository.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/aop/CategoryAspect.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/repository/ProductRepository.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/service/impl/CategoryServiceImpl.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/ProductManagementSystemApplication.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/entity/Category.java
+/home/shailesh/Documents/Java/Spring boot Practical 3/Spring Boot Practical 3/src/main/java/com/springboot/aop/ProductAspect.java
